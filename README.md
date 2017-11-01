@@ -15,6 +15,8 @@ please check the `index.html` in the repo and finish the following tasks:
 
 These two tasks are indepentant, please submit your answer separately.
 
+we prefer you use `react` and related tech stack like `redux` to finish these two tasks but you can also choose whatever framework you like.
+
 
 ## Contact Us
 if you have any questions about the code test, please contact me aaron@machinecolony.com
