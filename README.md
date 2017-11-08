@@ -7,7 +7,7 @@ This is the frontend code test repo for Machine Colony Code Interview. Have Fun 
 3. send us your repo :)
 
 ## Subject
-please check the `index.html` in the repo and finish the following tasks:
+please check the `index.html` in the repo as a sample maze and finish the following tasks:
 
 1. create the maze and put a 'mouse' into the entrance of the maze and you can use `left, right, up, down` key in the keyboard to control it (the mouse can't go across the wall)
 
