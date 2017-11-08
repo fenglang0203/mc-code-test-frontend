@@ -9,7 +9,7 @@ This is the frontend code test repo for Machine Colony Code Interview. Have Fun 
 ## Subject
 please check the `index.html` in the repo and finish the following tasks:
 
-1. put a 'mouse' into the entrance of the maze and you can use `left, right, up, down` key in the keyboard to control it (the mouse can't go across the wall)
+1. create the maze and put a 'mouse' into the entrance of the maze and you can use `left, right, up, down` key in the keyboard to control it (the mouse can't go across the wall)
 
 2. write the code to find the right path in the maze automatically and add the animation when finding the path
 
